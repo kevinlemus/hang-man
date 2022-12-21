@@ -1,2 +1,2 @@
 # hangman
-A hangman project.
+A hangman project. Written in Java.
